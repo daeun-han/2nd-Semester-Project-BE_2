@@ -1,5 +1,5 @@
 # 📸 MOA
-**"흩어져 있는 우리만의 네컷 추억을 한곳에, 소셜 아카이빙 플랫폼 MOA"**
+**"흩어져 있는 우리만의 네컷 추억을 한곳에, 인생네컷 아카이빙 플랫폼 MOA"**
 <br>
 
 ![모아 발표자료_page-0001](https://github.com/user-attachments/assets/162d247e-0f08-4016-b08f-214dd5d14fb1)
